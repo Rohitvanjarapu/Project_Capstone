@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Suite" parallel="false">
+
+  <test name="SauceDemo Tests">
+    <classes>
+      <class name="testcases.DriverFactoryTest"/>
+      <class name="testcases.LoginTest"/>
+      <class name="testcases.SortingTest"/>
+      <class name="testcases.CartTest"/>
+      <class name="testcases.CheckoutTest"/>
+    </classes>
+  </test>
+
+</suite>

@@ -1,4 +1,4 @@
-                                                       Project Capstone – SwagLabs Automation Testing                                                       
+   Project Capstone – SwagLabs Automation Testing                                                       
 -> Overview
 
 This project automates end-to-end testing of the SauceDemo (SwagLabs) application.
